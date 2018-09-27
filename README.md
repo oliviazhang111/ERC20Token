@@ -1,1 +1,1 @@
-# Ethereum-contract
+# Ethereum-contract ERC20 Token
